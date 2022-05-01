@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="47px" viewBox="0 0 79 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>EA7F3A36-053E-4C6B-8FB4-8C40C8391A53</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="5.02122023" y="0" width="69.0951443" height="43.935677" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="69.0951443" height="43.935677" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M4.56145746,44.9329737 C5.52680856,45.7380745 7.21134025,46.3907377 8.32256489,46.3907377 L72.1791444,46.3907377 C73.2909956,46.3907377 74.9260722,45.6258124 75.8361413,44.6770678 L78.2054293,42.2070912 C79.1132817,41.2606575 78.9439421,40.4934213 77.8364873,40.4934213 L1.25099394,40.4934213 C0.139380499,40.4934213 0.0219929028,41.1470698 0.98616255,41.9511853 L4.56145746,44.9329737" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="78.456566" height="5.89731638" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Homepage" transform="translate(-141.000000, -1987.000000)" stroke="#2690FF">
+            <g id="browse-compare" transform="translate(140.000000, 1987.000000)">
+                <g id="Group-7" transform="translate(0.886076, 0.140647)" stroke-width="4" stroke-linejoin="round">
+                    <use id="Rectangle-617" mask="url(#mask-2)" fill="#DFEFFF" xlink:href="#path-1"></use>
+                    <use id="Rectangle-617" mask="url(#mask-4)" fill="#2690FF" xlink:href="#path-3"></use>
+                </g>
+                <g id="Malefemale" transform="translate(19.324895, 10.632911)" stroke-width="2" fill="#FFFFFF" stroke-linejoin="round">
+                    <path d="M6.5359477,17.6470588 L9.1503268,17.6470588 L7.18954248,7.84313725 L1.30718954,7.84313725 L0,17.6470588 L2.6143791,17.6470588 L2.61437908,20.2612224 C2.61437908,21.3407552 3.49225212,22.2222222 4.5751634,22.2222222 C5.66562453,22.2222222 6.53594771,21.3442527 6.53594771,20.2612224 L6.53594771,17.6472743 Z" id="Rectangle-1302"></path>
+                    <polygon id="Rectangle-1302" transform="translate(17.647059, 15.032680) rotate(-180.000000) translate(-17.647059, -15.032680) " points="16.3398693 7.84313725 18.9542484 7.84313725 22.2222222 22.2222222 13.0718954 22.2222222"></polygon>
+                    <ellipse id="Oval-1057" cx="4.24836601" cy="2.94117647" rx="2.94117647" ry="2.94117647"></ellipse>
+                    <ellipse id="Oval-1057" cx="17.3202614" cy="2.94117647" rx="2.94117647" ry="2.94117647"></ellipse>
+                </g>
+                <path d="M49.1139241,13.164557 L61.3079438,13.164557" id="Line" stroke-width="2"></path>
+                <path d="M49.1139241,18.2278481 L61.3079438,18.2278481" id="Line" stroke-width="2"></path>
+                <path d="M49.1139241,23.2911392 L61.3079438,23.2911392" id="Line" stroke-width="2"></path>
+                <path d="M49.1139241,28.3544304 L57.2151899,28.3544304" id="Line" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
