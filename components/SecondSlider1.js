@@ -9,7 +9,7 @@ import "swiper/css/pagination";
 
 // import required modules
 import { Navigation, Pagination } from "swiper";
-export default function ({ images }) {
+export default function SecondSlider1({ images }) {
   console.log(images);
   return (
     <div className="overflow-hidden flex justify-center px-10 w-full">
