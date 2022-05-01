@@ -45,7 +45,7 @@ export default function ({ images }) {
         {images.map((img) => {
           console.log(img);
           return (
-            <SwiperSlide>
+            <SwiperSlide key={img}>
               <div className="relative	flex justify-center">
                 <img src={img} alt="" />
                 <div className="absolute z-20 text-white bottom-0">
